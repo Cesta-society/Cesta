@@ -4,7 +4,7 @@
 
 ---
 
-Members are requested to contribute in this file.
+Members are requested to contribute in this repo.
 
 ___
 
