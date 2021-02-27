@@ -1,0 +1,30 @@
+body
+{
+    background-color: #2A3166 ;
+}
+
+.container
+{
+ font-size: 36px;
+ margin-left: 8.5em;
+ margin-top: 1em;
+ color: #EE7879;
+}
+.name, .name td, .name th
+{
+    margin-left: 5.5em;
+    margin-top: 4em;
+    font-size: 26px;
+    color: #F4ABAA;
+    border:1px solid white;
+    border-collapse: collapse;
+    width: 1000px;
+    text-align: center;
+
+}
+.name th
+{
+    color: white;
+}
+
+    
