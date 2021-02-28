@@ -1,11 +1,12 @@
-# Cesta
 
-## This is a cesta introductory repository.
+[![Contributors][contributors-shield]][contributors-url]
+# Welcome To Cesta
 
----
+### This is a cesta introductory repository.
 
 Members are requested to contribute in this repo.
 
-___
 
-![alt text](http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1200x682.jpg)
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Cesta-society/Cesta/graphs/contributors
