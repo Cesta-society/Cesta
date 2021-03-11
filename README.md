@@ -1,4 +1,4 @@
-[contributors-shield]][contributors-url]
+[contributors-shield][contributors-url]
 # Welcome To Cesta
 
 ### This is a cesta introductory repository.
